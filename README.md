@@ -116,9 +116,4 @@ Code → Jenkins CI → Docker → ECR → Jenkins CD → Kubernetes (EKS)
 
 ---
 
-## Screenshots (Add these for maximum impact)
-- Jenkins pipeline execution  
-- Docker image build logs  
-- ECR repository images  
-- Kubernetes pods and services (`kubectl get pods`)  
-- Terraform apply output  
+t  
